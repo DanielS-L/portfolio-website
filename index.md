@@ -6,6 +6,6 @@ Collaborative software engineer
 
 *Collabortive Software Project in Computational Physics
 
-###My skills
+This is a better change 
 
 *Git and GitHub
